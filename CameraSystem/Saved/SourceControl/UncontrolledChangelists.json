@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/BPC_Camera_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Enum_Camera_States.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_CameraInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_CameraInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/WBP_Camera_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/BP_CCTV_Camera.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4H/474Q5H04ZU039XK8U0YJ93.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/BPI_CCTV_Cameras.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/2Z/JII3XAL3NXF3WI43ID7EHS.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/BPI_Camera_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_ThirdPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_FirstPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_OverTheShoulderStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_TrueFirstPersonInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_DistantThirdPersonInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_IsometricStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Struct_CCTVStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_ThirdPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_TrueFirstPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_OverTheShoulderStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_IsometricStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_FirstPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_DistantThirdPersonStateInfo.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/DT_CCTVStateInfo.uasset"
+			]
+		}
+	]
+}
