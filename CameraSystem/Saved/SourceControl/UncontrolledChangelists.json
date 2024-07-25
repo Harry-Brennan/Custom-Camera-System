@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/harry/Desktop/Uni/Side Projects/Custom-Camera-System/CameraSystem/Content/Camera_System/BPC_Camera_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Custom-Camera-System/CameraSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/BPC_Camera_System.uasset",
 				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/Camera_System/Enum_Camera_States.uasset",
 				"C:/Users/harry/Desktop/Uni/Side Projects/CameraSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
